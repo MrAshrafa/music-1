@@ -35,7 +35,7 @@ client.on('ready', () => {
     console.log('')
   console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
   console.log(`Logged in as [ ${client.user.tag}! ]`);
-  console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
+  console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
   console.log('[           BOT IS ONLINE         ]')
   console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
   console.log('[        info         ]')
